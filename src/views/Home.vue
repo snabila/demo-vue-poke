@@ -21,7 +21,6 @@ import Cards from "../components/Cards.vue";
 import Pagination from "../components/Pagination.vue";
 export default {
   components: {
-    Search,
     Cards,
     Pagination,
   },
