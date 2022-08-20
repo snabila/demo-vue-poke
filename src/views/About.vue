@@ -2,7 +2,7 @@
   <div>
     <a
       class="mb-4 py-2 px-3 block bg-blue-200 text-blue-600 border border-blue-600 font-semibold rounded"
-      href=""
+      href="https://github.com/snabila/demo-vue-poke"
       >View this project on Github</a
     >
 

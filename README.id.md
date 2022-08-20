@@ -9,3 +9,5 @@ Aplikasi ini menggunakan:
 - Poke API
 - Router transitions
 - Component load animation (masih agak aneh, perlu diperbaiki)
+
+Bisa lihat live demo [disini](https://demo-vue-poke.netlify.app/)
